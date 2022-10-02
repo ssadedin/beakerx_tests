@@ -21,9 +21,9 @@
 
 ### Related repositories for JVM kernel development
 
-* [kernel base](https://github.com/twosigma/beakerx_kernel_base)
+* [kernel base](https://github.com/ssadedin/beakerx_kernel_base)
 * [clojure kernel](https://github.com/twosigma/beakerx_kernel_clojure)
-* [groovy kernel](https://github.com/twosigma/beakerx_kernel_groovy)
+* [groovy kernel](https://github.com/ssadedin/beakerx_kernel_groovy)
 * [java kernel](https://github.com/twosigma/beakerx_kernel_java)
 * [kotlin kernel](https://github.com/twosigma/beakerx_kernel_kotlin)
 * [scala kernel](https://github.com/twosigma/beakerx_kernel_scala)
@@ -41,7 +41,7 @@
 
 ### Related repositories for general development
 
-* [tests](https://github.com/twosigma/beakerx_tests)
+* [tests](https://github.com/ssadedin/beakerx_tests)
 
 ### Setup your development environment (linux and mac)
 
@@ -49,15 +49,15 @@
 mkdir beakerx-devel
 cd beakerx-devel
 git clone https://github.com/twosigma/beakerx
-git clone https://github.com/twosigma/beakerx_kernel_base
+git clone https://github.com/ssadedin/beakerx_kernel_base
 git clone https://github.com/twosigma/beakerx_kernel_kotlin
 git clone https://github.com/twosigma/beakerx_kernel_clojure
 git clone https://github.com/twosigma/beakerx_kernel_scala
-git clone https://github.com/twosigma/beakerx_kernel_groovy
+git clone https://github.com/ssadedin/beakerx_kernel_groovy
 git clone https://github.com/twosigma/beakerx_kernel_sql
 git clone https://github.com/twosigma/beakerx_kernel_autotranslation
 git clone https://github.com/twosigma/beakerx_kernel_java
-git clone https://github.com/twosigma/beakerx_tests
+git clone https://github.com/ssadedin/beakerx_tests
 git clone https://github.com/twosigma/beakerx_base
 git clone https://github.com/twosigma/beakerx_widgets
 git clone https://github.com/twosigma/beakerx_tabledisplay

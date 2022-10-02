@@ -14,12 +14,12 @@
     limitations under the License.
 -->
 
-The [e2e tests](https://github.com/twosigma/beakerx_tests/tree/master/autotests) directory.
+The [e2e tests](https://github.com/ssadedin/beakerx_tests/tree/master/autotests) directory.
 
 ## Related repositories:
-* [backend base](https://github.com/twosigma/beakerx_kernel_base)
+* [backend base](https://github.com/ssadedin/beakerx_kernel_base)
 * [clojure kernel](https://github.com/twosigma/beakerx_kernel_clojure)
-* [groovy kernel](https://github.com/twosigma/beakerx_kernel_groovy)
+* [groovy kernel](https://github.com/ssadedin/beakerx_kernel_groovy)
 * [java kernel](https://github.com/twosigma/beakerx_kernel_java)
 * [kotlin kernel](https://github.com/twosigma/beakerx_kernel_kotlin)
 * [scala kernel](https://github.com/twosigma/beakerx_kernel_scala)
@@ -27,4 +27,4 @@ The [e2e tests](https://github.com/twosigma/beakerx_tests/tree/master/autotests)
 * [autotranslation](https://github.com/twosigma/beakerx_kernel_autotranslation)
 * [frontend base](https://github.com/twosigma/beakerx_base)
 * [tabledisplay widget](https://github.com/twosigma/beakerx_tabledisplay)
-* [e2e tests](https://github.com/twosigma/beakerx_tests)
+* [e2e tests](https://github.com/ssadedin/beakerx_tests)
