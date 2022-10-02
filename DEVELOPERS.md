@@ -36,7 +36,7 @@
 ### Related repositories for front-end components
 
 * [frontend base](https://github.com/twosigma/beakerx_base)
-* [tabledisplay](https://github.com/twosigma/beakerx_tabledisplay)
+* [tabledisplay](https://github.com/ssadedin/beakerx_tabledisplay)
 * [widgets](https://github.com/twosigma/beakerx_widgets)
 
 ### Related repositories for general development
@@ -60,7 +60,7 @@ git clone https://github.com/twosigma/beakerx_kernel_java
 git clone https://github.com/ssadedin/beakerx_tests
 git clone https://github.com/twosigma/beakerx_base
 git clone https://github.com/twosigma/beakerx_widgets
-git clone https://github.com/twosigma/beakerx_tabledisplay
+git clone https://github.com/ssadedin/beakerx_tabledisplay
 cd beakerx_tests/dev_scripts/
 conda env create -n beakerx-devel -f configuration-lab.yml
 conda activate beakerx-devel
