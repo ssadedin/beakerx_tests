@@ -31,7 +31,7 @@
 
 ### Related repositories for autotranslation development
 
-* [autotranslation](https://github.com/twosigma/beakerx_kernel_autotranslation)
+* [autotranslation](https://github.com/ssadedin/beakerx_kernel_autotranslation)
 
 ### Related repositories for front-end components
 
@@ -55,7 +55,7 @@ git clone https://github.com/twosigma/beakerx_kernel_clojure
 git clone https://github.com/twosigma/beakerx_kernel_scala
 git clone https://github.com/ssadedin/beakerx_kernel_groovy
 git clone https://github.com/twosigma/beakerx_kernel_sql
-git clone https://github.com/twosigma/beakerx_kernel_autotranslation
+git clone https://github.com/ssadedin/beakerx_kernel_autotranslation
 git clone https://github.com/twosigma/beakerx_kernel_java
 git clone https://github.com/ssadedin/beakerx_tests
 git clone https://github.com/twosigma/beakerx_base
